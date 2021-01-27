@@ -1,0 +1,6 @@
+####### Requirements #######
+#
+###### Modulos requeridos para que funcionen los scripts en python para la recopilación de datos. ######
+wmi
+environs
+psycopg2
