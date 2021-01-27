@@ -1,7 +1,9 @@
 ![](doc/img/Logos/Pequeño%20Horizontal/logo_white_background.jpg)
 
-## Descripción
 
+# A este proyecto le falta mucho para poder ponerse en producción, se presentó esta fase inicial como proyecto de fin de ciclo, se puede usar para hacer pruebas con Grafana pero todavía necesitaría mucho trabajo para poder usarse en una empresa.
+
+## Descripción
 > Este proyecto consiste en la integración de PostgreSQL, InfluxDB y Grafana con Telegraf y otras fuentes para la obtención de datos que nos permitan realizar una monitorización de nuestro parque informático de una forma ágil y visualmente atractiva.
 > 
 > La monitorización de los servidores se realizará en tiempo real y los datos de las estaciones de trabajo se consultarán de forma periódica, pudiendo programarse en intervalos personalizados.
@@ -25,8 +27,6 @@
 > 
 > Contraseña por defecto de Grafana: abc123.
 >
-> Video Demostrativo de la puesta en marcha:
->![](doc/PIG-DEMO.mp4) 
 
 ## Uso
 
