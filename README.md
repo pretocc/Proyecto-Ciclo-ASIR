@@ -11,7 +11,7 @@
 > Gracias a esta información podremos adelantarnos a posibles problemas y realizar las tareas preventivas antes de que se genere una incidencia, como falta de espacio en disco de un PC, consumo excesivo de RAM o CPU en un servidor entre otras.
 
 ## Puesta en marcha
-> Descarga del fichero OVA - [PIG OVA](https://drive.google.com/file/d/1ZhQVDk2LGab1MRxckKi9QpxTjez0Fgcd/view?usp=sharing)
+> Descarga del fichero OVA - [PIG OVA](https://drive.google.com/file/d/107kvhl-F83CvcZf_VuJFESNAygrIJYjt/view?usp=sharing)
 >
 > Teniendo ya instalado Virtual Box se ejecuta el fichero OVA y se pulsa importar, se acepta el acuerdo de licencia y ya tendremos la máquina importada.
 > 
